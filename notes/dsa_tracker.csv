@@ -5,3 +5,4 @@ Date,Problem,Topic,Difficulty,Solved_without_hint(y/n)
 18-02-2026,Best Time to Buy and Sell Stock,Array,Easy,N
 21-02-2026,Product of Array Except Self,Array,Medium,N
 21-02-2026,Maximum Subarray,Array_DP,Medium,N
+26-02-2026,Valid Palindrome,2 pointers,Easy,Y
